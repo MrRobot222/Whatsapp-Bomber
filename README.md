@@ -1,8 +1,8 @@
-			WELCOME
+			#WELCOME
 
 Hello Everyone Today We Are Gonna Learn How To Use Whatsapp Bomber.
 
-			CREDITS
+			#CREDITS
 This is my OWN code """JOKER HACKER"""
 
 Twitter ID: https://twitter.com/H4ck3rJ0k3r
@@ -12,16 +12,16 @@ Instagram ID: https://www.instagram.com/joker_hacker222/
 Telegram Link: https://t.me/INDIANBLACKHATS
 
 
-			INSTRUCTIONS
-1. git clone https://github.com/jokerhacker22/Whatsapp-Bomber
+			#INSTRUCTIONS
+1. 'git clone https://github.com/jokerhacker22/Whatsapp-Bomber'
 
-2. cd Whatsapp-Bomber
+2. 'cd Whatsapp-Bomber'
 
-3. pip install selenium
+3. 'pip install selenium'
 
-4. python WhatsappBomber.py
+4. 'python WhatsappBomber.py'
 
-			WARNINGS
+			#WARNINGS
 1. Install selenium or else it Won't work
 
 2. Use Firefox only

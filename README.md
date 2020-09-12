@@ -1,18 +1,22 @@
-#:boom:WHATSAPP BOMBER:boom:
+# :boom:WHATSAPP BOMBER:boom:
 
 This code was created by-**Elliot Alderson**
 
 Follow me on:
 
 [Twitter ID](https://twitter.com/MrRobotFsec)
-[Instagram ID](https://www.instagram.com/joker_hacker222/)
+
+[Instagram ID](https://www.instagram.com/mrrobot_fsec/)
 
 
 
                         INSTRUCTIONS
 >`git clone https://github.com/jokerhacker22/Whatsapp-Bomber`
+
 >`cd Whatsapp-Bomber`
+
 >`pip install selenium`
+
 >`python WhatsappBomber.py`
 
                         WARNINGS

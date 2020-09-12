@@ -1,26 +1,19 @@
-                         WELCOME
+#:boom:WHATSAPP BOMBER:boom:
 
-Hello Everyone Today We Are Gonna Learn How To Use Whatsapp Bomber.
+This code was created by-**Elliot Alderson**
 
-                        CREDITS
+Follow me on:
 
-This is my OWN code **JOKER HACKER**
+[Twitter ID](https://twitter.com/MrRobotFsec)
+[Instagram ID](https://www.instagram.com/joker_hacker222/)
 
-Twitter ID: https://twitter.com/H4ck3rJ0k3r
-
-Instagram ID: https://www.instagram.com/joker_hacker222/
-
-Telegram Link: https://t.me/INDIANBLACKHATS
 
 
                         INSTRUCTIONS
-1. `git clone https://github.com/jokerhacker22/Whatsapp-Bomber`
-
-2. `cd Whatsapp-Bomber`
-
-3. `pip install selenium`
-
-4. `python WhatsappBomber.py`
+>`git clone https://github.com/jokerhacker22/Whatsapp-Bomber`
+>`cd Whatsapp-Bomber`
+>`pip install selenium`
+>`python WhatsappBomber.py`
 
                         WARNINGS
 1. Install __selenium__ or else it Won't work

@@ -11,8 +11,7 @@ print("\033[1;32;40m ╚█████╔╝╚█████╔╝██║�
 print("\033[1;32;40m ░╚════╝░░╚════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝  ╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝\n")
 print("                            This Script Was Made By JOKER HACKER​​​​​                          ")
 
-path = input("Enter the path location for geckodriver: ")
-driver = webdriver.Firefox(executable_path=path)
+driver = webdriver.Firefox('geckodriver')
 driver.get('https://web.whatsapp.com/')
 
 name = input('Enter the name of user or group : ')
